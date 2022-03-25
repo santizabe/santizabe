@@ -1,9 +1,8 @@
 ### Hi there, I'm Santiago, nice to meet you! 👋
 
 - 🌱 I’m currently learning Fullstack development, including the following languages
-![C language icon](https://www.clipartmax.com/png/middle/240-2409409_c-programming-icon-c-programming-language-icon.png)
-<img src="https://www.clipartmax.com/png/middle/240-2409409_c-programming-icon-c-programming-language-icon.png" alt="cProg" width="200"/>
-![Node.js icon](https://cdn-icons-png.flaticon.com/512/919/919825.png)
+<img src="https://www.clipartmax.com/png/middle/240-2409409_c-programming-icon-c-programming-language-icon.png" alt="cProg" width="50"/>
+<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs" width="50"/>
 ![JavaScript icon](https://pngset.com/images/library-of-javascript-icon-graphic-freeuse-files-logo-logo-javascript-icon-in-number-symbol-text-first-aid-transparent-png-1497709.png)
 ![CSS icon](https://cdn-icons-png.flaticon.com/512/919/919826.png)
 ![HTML icon](https://cdn-icons-png.flaticon.com/512/919/919827.png)
