@@ -1,4 +1,6 @@
-### Hi there, I'm Santiago, nice to meet you! 👋
+# Hi there, I'm Santiago, nice to meet you! 👋
+
+[![Santizabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=santizabe)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m a 42 Malaga Fullstack developer, These are the technologies I've used for my projects:\
 <img src="https://www.clipartmax.com/png/middle/240-2409409_c-programming-icon-c-programming-language-icon.png" alt="cProg" width="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" alt="cPlusPlusProg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/docker-moby.png" alt="docker" width="50"/> <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs" width="50"/> <img src="https://pngset.com/images/library-of-javascript-icon-graphic-freeuse-files-logo-logo-javascript-icon-in-number-symbol-text-first-aid-transparent-png-1497709.png" alt="javascript" width="50"/> <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="css" width="50"/> <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="html" width="50"/> <img src="https://cdn-icons-png.flaticon.com/512/1199/1199128.png" alt="MySQL icon" width="50"/> <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" alt="React icon" width="50"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="Bootstrap icon" width="50"/>
